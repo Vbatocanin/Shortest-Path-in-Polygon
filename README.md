@@ -2,7 +2,8 @@
 
 Ovaj rad obradjuje metodu odredjivanja najkraćeg puta od jedne poligona do druge, tako da taj put leži u poligonu. 
 
-
+Link ka video objasnjenju:
+https://www.youtube.com/watch?v=TAoSD3ki3WI&ab_channel=NootNoot
 
 U radu su implementirane dve verzije algoritma:
 
